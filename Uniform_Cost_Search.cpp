@@ -95,7 +95,11 @@ int32_t main()
 
     vector<int> result = uniformCostSearch(goal, 0);
 
-    cout << "Minimum cost g = " << result[0] << endl;
+    cout << "Minimum cost  = " << result[0] << endl;
 
     return 0;
 }
+
+//my goal is go to start index 0 to 
+
+//Minimum cost  = 3
